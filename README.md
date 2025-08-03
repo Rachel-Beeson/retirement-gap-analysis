@@ -104,18 +104,18 @@ SELECT
     ROUND(100.0 * AVG(owns_stocks), 1) as stock_ownership_pct
 FROM retirement_analysis
 GROUP BY gender, age_group;
+
 🎯 Portfolio Highlights
 This project demonstrates:
-
 End-to-end analytical capabilities from data extraction to business recommendations
 Technical proficiency in SQL, database management, and data visualization
 Business acumen with market opportunity identification and strategic thinking
 Professional communication through executive-ready deliverables and documentation
 
 📬 Contact & Links
-Portfolio: [Your Portfolio Website]
-LinkedIn: [Your LinkedIn Profile]
-Tableau Public: [Your Tableau Public Profile]
+Portfolio: [Your Portfolio Website](https://www.rachelbeeson.com/data)
+LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/rachelbeeson)
+Tableau Public: [Your Tableau Public Profile](https://public.tableau.com/app/profile/rachelbeeson/vizzes)
 
 🏷️ Tags
 data-analytics sql tableau postgresql demographic-analysis financial-services retirement-planning gender-gap-analysis business-intelligence market-research
